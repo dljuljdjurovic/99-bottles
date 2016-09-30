@@ -11,7 +11,7 @@ package pkg99.bottles;
  */
 public class beersong {
     public static void main (String [] args){
-        
+        ninety_nine_bottles_of_beer();
     }
     public static void ninety_nine_bottles_of_beer(){
         
